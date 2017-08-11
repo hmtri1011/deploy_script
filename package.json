@@ -1,0 +1,14 @@
+{
+  "name": "deploy",
+  "version": "1.0.0",
+  "description": "foxplus deploy script",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "HMT",
+  "bin": {
+    "fox_deploy": "./index.js"
+  },
+  "dependencies": {
+    "node-cmd": "^3.0.0"
+  }
+}
