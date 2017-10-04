@@ -9,6 +9,8 @@
     "fox_deploy": "./index.js"
   },
   "dependencies": {
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
     "node-cmd": "^3.0.0"
   }
 }
